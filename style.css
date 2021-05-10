@@ -1,0 +1,72 @@
+*{
+    background-color: #C7C8C4;
+}
+
+.menu{
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+    border: 2px solid #F9C743;
+}
+
+.linkmenu{
+    color: #A6341B;
+}
+
+.logo{
+    background-color: white;
+}
+.banner{
+    display: flex;
+    justify-content: start;
+    background-color: white;
+}
+
+.contacto{
+        text-align: center;
+        align-content: left;
+}
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    color: #60371E;
+}
+
+.fila{
+    display:flex ;
+    padding: 10px;
+    margin-bottom: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    margin-top: 20px;
+    }
+
+.columna{
+    padding: 10px;
+    border: #60371E solid;
+    background-color:#D1BF91 ;
+}
+
+.columnafoto{
+    padding: 10px;
+    border: #60371E solid;
+}
+
+.boxtit{
+    background-color:#D1BF91 ;
+    font-size: 20px;
+}
+
+.boxdesc{
+    background-color:#D1BF91 ;
+    font-size: 15px;
+}
+
+.boxdir{
+    background-color:#D1BF91 ;
+    font-size: 17px;
+    color: #60371E;
+}
+
